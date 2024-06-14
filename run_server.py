@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 import pandas
 from qwen_server.schema import GlobalConfig
-
+#hello Github！：）
 
 def parse_args():
     parser = argparse.ArgumentParser()
